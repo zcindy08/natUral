@@ -9,6 +9,124 @@
 	],
 "creatorBuild": "32001",
 "files": {
+	"/deploy/img/section-1/hero.jpg": {
+		"ft": 16384,
+		"iS": 56472,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-1/hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-2/natural-1.jpg": {
+		"ft": 16384,
+		"iS": 104389,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-2/natural-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-3/product-1.jpg": {
+		"ft": 16384,
+		"iS": 14922,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-3/product-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-3/product-2.jpg": {
+		"ft": 16384,
+		"iS": 19669,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-3/product-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-3/product-3.jpg": {
+		"ft": 16384,
+		"iS": 23445,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-3/product-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-3/product-4.jpg": {
+		"ft": 16384,
+		"iS": 16787,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-3/product-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-4/background.png": {
+		"ft": 32768,
+		"iS": 45897,
+		"oA": 0,
+		"oAP": "/deploy/img/section-4/background.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/deploy/img/section-5/sale-1.jpg": {
+		"ft": 16384,
+		"iS": 39188,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-5/sale-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-5/sale-2.jpg": {
+		"ft": 16384,
+		"iS": 25997,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-5/sale-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-5/sale-3.jpg": {
+		"ft": 16384,
+		"iS": 65213,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-5/sale-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/dev/index.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/dev/index.html",
+		"oF": 0
+		},
 	"/README.md": {
 		"cB": 0,
 		"cS": 0,
